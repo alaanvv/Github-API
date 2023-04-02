@@ -1,0 +1,2 @@
+- `npm test` - test all endpoints with **Jest**  
+- `npm start` - run the API
